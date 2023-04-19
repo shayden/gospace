@@ -1,0 +1,1 @@
+This is an experiment to attempt to create a websocket server that lags users based on how far apart they are in a crude simulation of relativistic effects.
